@@ -30,4 +30,10 @@ build/
 .tmp/
 .temp/
 
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secret keys
 serviceAccountKey.json
