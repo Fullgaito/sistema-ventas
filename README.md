@@ -344,6 +344,10 @@ sistema-ventas/
 
 ---
 
+## 🧩 Diagrama de Arquitectura
+
+![Arquitectura del sistema](Diagrama-sistema.png)
+
 ## 👤 Autor
 
 Sergio Alejandro Gaitán Quintero
