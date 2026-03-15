@@ -36,7 +36,7 @@ return [
     ],
 
     'express' => [
-        'url' => env('MS_VENTAS_URL', 'http://localhost:3000'),
+        'url' => env('MS_VENTAS_URL', 'http://localhost:3000') ,
     ],
 
 ];
