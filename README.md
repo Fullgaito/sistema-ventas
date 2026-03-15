@@ -4,6 +4,15 @@ Sistema de registro de ventas construido con una arquitectura basada en microser
 
 ---
 
+## 🧰 Tecnologías utilizadas
+
+- **Laravel** — API Gateway
+- **JWT (php-open-source-saver/jwt-auth)** — Autenticación
+- **Flask** — Microservicio de inventario
+- **Firebase Realtime Database** — Base de datos de inventario
+- **Express.js** — Microservicio de ventas
+- **MongoDB** — Base de datos de ventas
+
 ## 🏗️ Arquitectura del Sistema
 
 El sistema está compuesto por tres servicios independientes:
