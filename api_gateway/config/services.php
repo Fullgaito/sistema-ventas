@@ -31,4 +31,12 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'flask' => [
+        'url' => env('MS_INVENTARIO_URL', 'http://localhost:5000') . '/api',
+    ],
+
+    'express' => [
+        'url' => env('MS_VENTAS_URL', 'http://localhost:3000'),
+    ],
+
 ];
